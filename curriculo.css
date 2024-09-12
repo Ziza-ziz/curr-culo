@@ -1,0 +1,101 @@
+h1{
+   font-size: 80px; 
+}
+
+h1, h2, h3,h4{
+    font-family: "Ruda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+    padding-left: 60px;
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding-left: 60px;
+}
+
+.tudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1400px;
+    text-align: justify;
+}
+
+.tudo img{
+   height: 200px;
+   width: 300px;
+   padding-left: 60px;
+   padding-top: 50px;
+}
+
+.icones img{
+    width: 20px ;
+    height: 20px;
+   
+}
+
+.icones p{
+    padding-left: 20px;
+}
+
+.icones2 p{
+    padding-left: 20px;
+}
+
+.icones3 p{
+    padding-left: 20px;
+}
+
+.icones2 img{
+    width: 35px ;
+    height: 20px;
+}
+
+.icones3 img{
+    width: 20px ;
+    height: 20px;
+}
+
+.icones{
+    display: flex;
+    align-items: baseline;
+}
+
+.icones2{
+    display: flex;
+    align-items: baseline;
+}
+
+.icones3{
+    display: flex;
+    align-items: baseline;
+}
+
+#esquerdo{
+ background-color: #d9d9d9;
+ width: 600px;
+ height: 1200px;
+ 
+}
+
+#direita{
+  width: 800px;
+  height: 1200px;
+   
+}
+
+
+#faixa{
+    background-color: black;
+    width: 1400px;
+    height: 30px;
+    
+}
+
+
